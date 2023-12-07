@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labolatorium-_1-ASP-NET", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lekcja-2-ASP-NET-WSEI-2023", "Lekcja-2-ASP-NET-WSEI-2023\Lekcja-2-ASP-NET-WSEI-2023.csproj", "{3650CD94-DBF2-438B-B65A-D72BCEA32947}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lekcja-3-ASP-NET", "Lekcja-3-ASP-NET\Lekcja-3-ASP-NET.csproj", "{13DE3282-4687-4CFC-AFAB-E8D8CFC13696}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3650CD94-DBF2-438B-B65A-D72BCEA32947}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3650CD94-DBF2-438B-B65A-D72BCEA32947}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3650CD94-DBF2-438B-B65A-D72BCEA32947}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13DE3282-4687-4CFC-AFAB-E8D8CFC13696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13DE3282-4687-4CFC-AFAB-E8D8CFC13696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13DE3282-4687-4CFC-AFAB-E8D8CFC13696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13DE3282-4687-4CFC-AFAB-E8D8CFC13696}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
