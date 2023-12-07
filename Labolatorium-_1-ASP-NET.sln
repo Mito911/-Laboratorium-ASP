@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labolatorium-_1-ASP-NET", "Labolatorium-_1-ASP-NET\Labolatorium-_1-ASP-NET.csproj", "{70B1E9F7-D8DD-419F-B06F-E69FD70DC882}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lekcja-2-ASP-NET-WSEI-2023", "Lekcja-2-ASP-NET-WSEI-2023\Lekcja-2-ASP-NET-WSEI-2023.csproj", "{3650CD94-DBF2-438B-B65A-D72BCEA32947}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70B1E9F7-D8DD-419F-B06F-E69FD70DC882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70B1E9F7-D8DD-419F-B06F-E69FD70DC882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70B1E9F7-D8DD-419F-B06F-E69FD70DC882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70B1E9F7-D8DD-419F-B06F-E69FD70DC882}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3650CD94-DBF2-438B-B65A-D72BCEA32947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3650CD94-DBF2-438B-B65A-D72BCEA32947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3650CD94-DBF2-438B-B65A-D72BCEA32947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3650CD94-DBF2-438B-B65A-D72BCEA32947}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3125262-71DD-4B82-A66A-E119F141CCD8}
+	EndGlobalSection
+EndGlobal
