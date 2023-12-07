@@ -1,4 +1,4 @@
-﻿using Lekcja_2_ASP_NET_WSEI_2023.Models;
+﻿using using Lekcja_2_ASP_NET_WSEI_2023.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
@@ -13,10 +13,7 @@ namespace Lekcja_2_ASP_NET_WSEI_2023.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
-        {
-            return View();
-        }
+
 
         public IActionResult Privacy()
         {
